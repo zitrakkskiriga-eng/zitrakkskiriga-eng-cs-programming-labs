@@ -1,0 +1,6 @@
+length = 5.5
+width = 3
+area = length * width
+perimeter = 2 * (length + width)
+print("Площадь:", area)
+print("Периметр:", perimeter)
